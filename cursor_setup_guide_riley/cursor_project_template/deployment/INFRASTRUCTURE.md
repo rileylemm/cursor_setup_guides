@@ -5,7 +5,7 @@ title: "Infrastructure Setup Documentation"
 category: "Deployment"
 related: ["deployment/ARCHITECTURE.md", "deployment/INSTALLATION.md", "README.md"]
 key_concepts: ["infrastructure", "networking", "security", "monitoring", "automation"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document details the infrastructure setup and configuration.
@@ -156,4 +156,4 @@ This document details the infrastructure setup and configuration.
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

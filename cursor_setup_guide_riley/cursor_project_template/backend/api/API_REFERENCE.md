@@ -5,7 +5,7 @@ title: "API Reference Documentation"
 category: "Backend/API"
 related: ["backend/api/API.md", "backend/api/API_ARCHITECTURE.md", "backend/api/ENDPOINTS.md"]
 key_concepts: ["api_reference", "endpoints", "methods", "parameters", "responses"]
-updated: "2024-03-16"
+updated: "2025-03-16"
 ---
 
 This document provides a comprehensive reference for all API endpoints, methods, and parameters.
@@ -184,4 +184,4 @@ The system supports various HTTP methods:
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

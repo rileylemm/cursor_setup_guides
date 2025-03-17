@@ -5,7 +5,7 @@ title: "Project Structure"
 category: "Overview"
 related: ["CORE_DEFINITIONS.md", "IMPLEMENTATION_PHASES.md", "DEVELOPMENT_SETUP.md"]
 key_concepts: ["directory_structure", "file_organization", "module_architecture", "codebase_layout"]
-updated: "2024-03-16"
+updated: "2025-03-16"
 ---
 
 This document outlines the project's directory structure, file organization, and module architecture.
@@ -171,4 +171,4 @@ dist/
 
 ---
 
-*Last Updated: March 2024*
+*Last Updated: March 2025*

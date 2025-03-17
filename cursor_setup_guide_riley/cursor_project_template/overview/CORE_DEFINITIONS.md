@@ -5,7 +5,7 @@ title: "Core Definitions"
 category: "Overview"
 related: ["IMPLEMENTATION_PHASES.md", "PROJECT_STRUCTURE.md", "../backend/ARCHITECTURE.md", "../frontend/ARCHITECTURE.md"]
 key_concepts: ["project_scope", "key_terms", "system_components", "technical_concepts"]
-updated: "2024-03-16"
+updated: "2025-03-16"
 ---
 
 This document defines the core concepts, terms, and components used throughout the project.
@@ -109,4 +109,4 @@ This document defines the core concepts, terms, and components used throughout t
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

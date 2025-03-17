@@ -5,7 +5,7 @@ title: "Contribution Guidelines"
 category: "Development"
 related: ["development/INDEX.md", "development/SETUP.md", "development/IMPLEMENTATION_CHECKLIST.md"]
 key_concepts: ["contribution", "guidelines", "process", "standards"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document outlines the guidelines and process for contributing to the project.
@@ -132,4 +132,4 @@ This document outlines the guidelines and process for contributing to the projec
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

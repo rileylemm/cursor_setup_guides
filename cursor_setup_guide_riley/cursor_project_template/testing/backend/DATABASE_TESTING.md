@@ -5,7 +5,7 @@ title: "Database Testing Documentation"
 category: "Testing/Backend"
 related: ["testing/backend/INDEX.md", "testing/backend/INTEGRATION_TESTING.md", "backend/data/DATABASE_DESIGN.md"]
 key_concepts: ["database_testing", "data_validation", "query_testing", "migration_testing", "performance_testing"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document outlines the approaches and strategies for testing database functionality.
@@ -156,4 +156,4 @@ This document outlines the approaches and strategies for testing database functi
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

@@ -5,7 +5,7 @@ title: "Standards Documentation"
 category: "Standards"
 related: ["standards/DOCUMENTATION.md", "standards/AI_DOCUMENTATION_GUIDE.md", "standards/CODE_STYLE.md", "standards/GIT_WORKFLOW.md", "standards/REVIEW_PROCESS.md"]
 key_concepts: ["standards", "documentation", "code_style", "git_workflow", "review_process"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This section contains comprehensive documentation for project standards and guidelines.
@@ -68,4 +68,4 @@ This section contains comprehensive documentation for project standards and guid
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

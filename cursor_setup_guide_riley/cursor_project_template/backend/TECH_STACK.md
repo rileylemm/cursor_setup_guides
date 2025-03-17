@@ -5,7 +5,7 @@ title: "Backend Tech Stack"
 category: "Backend"
 related: ["ARCHITECTURE.md", "data/DATA_ARCHITECTURE.md", "api/API_ARCHITECTURE.md"]
 key_concepts: ["programming_languages", "frameworks", "databases", "infrastructure"]
-updated: "2024-03-16"
+updated: "2025-03-16"
 ---
 
 This document outlines the technology choices and rationale for the backend system.
@@ -130,4 +130,4 @@ This document outlines the technology choices and rationale for the backend syst
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

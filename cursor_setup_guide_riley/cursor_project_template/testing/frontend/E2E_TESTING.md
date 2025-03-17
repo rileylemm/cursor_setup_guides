@@ -5,7 +5,7 @@ title: "E2E Testing Documentation"
 category: "Testing/Frontend"
 related: ["testing/frontend/INDEX.md", "testing/frontend/COMPONENT_TESTING.md", "testing/frontend/VISUAL_TESTING.md"]
 key_concepts: ["e2e_testing", "user_flows", "test_scenarios", "test_automation", "test_coverage"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document outlines the strategies and approaches for end-to-end testing of user flows.
@@ -156,4 +156,4 @@ This document outlines the strategies and approaches for end-to-end testing of u
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

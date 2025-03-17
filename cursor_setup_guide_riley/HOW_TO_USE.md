@@ -5,7 +5,7 @@ title: "Template Usage Guide"
 category: "Meta"
 related: ["HOW_TO_USE_NON_TECHNICAL.md", "AI_ENTRY_POINT.md"]
 key_concepts: ["template", "setup", "documentation", "project_planning"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This guide explains how to effectively use this project template with Cursor IDE and its AI capabilities.
@@ -336,4 +336,4 @@ AI: [Helps fill out the template with gathered information]
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

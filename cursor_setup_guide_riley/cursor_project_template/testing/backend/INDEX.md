@@ -5,7 +5,7 @@ title: "Backend Testing Documentation Overview"
 category: "Testing/Backend"
 related: ["testing/STRATEGY.md", "testing/COVERAGE.md", "testing/backend/API_TESTING.md"]
 key_concepts: ["backend_testing", "api_testing", "database_testing", "integration_testing", "test_organization"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document provides an overview of the backend testing documentation structure.
@@ -90,4 +90,4 @@ This document provides an overview of the backend testing documentation structur
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

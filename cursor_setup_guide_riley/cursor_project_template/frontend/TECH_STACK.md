@@ -5,7 +5,7 @@ title: "Frontend Tech Stack"
 category: "Frontend"
 related: ["ARCHITECTURE.md", "ui/UI_ARCHITECTURE.md", "state/STATE_MANAGEMENT.md"]
 key_concepts: ["frameworks", "libraries", "build_tools", "testing"]
-updated: "2024-03-16"
+updated: "2025-03-16"
 ---
 
 This document outlines the technology choices and rationale for the frontend system.
@@ -149,4 +149,4 @@ This document outlines the technology choices and rationale for the frontend sys
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

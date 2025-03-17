@@ -5,7 +5,7 @@ title: "Design System Documentation"
 category: "Frontend/UI"
 related: ["frontend/ui/INDEX.md", "frontend/ui/COMPONENT_LIBRARY.md"]
 key_concepts: ["design_system", "design_tokens", "style_guidelines", "theme_management", "accessibility"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document outlines the design system principles, tokens, and styles.
@@ -149,4 +149,4 @@ This document outlines the design system principles, tokens, and styles.
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

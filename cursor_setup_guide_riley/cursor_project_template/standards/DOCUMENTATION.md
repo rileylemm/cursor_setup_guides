@@ -5,7 +5,7 @@ title: "Documentation Standards"
 category: "Standards"
 related: ["standards/INDEX.md", "standards/AI_DOCUMENTATION_GUIDE.md", "standards/CODE_STYLE.md"]
 key_concepts: ["documentation", "standards", "formatting", "structure"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document outlines the standards for creating and maintaining project documentation.
@@ -127,4 +127,4 @@ This document outlines the standards for creating and maintaining project docume
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

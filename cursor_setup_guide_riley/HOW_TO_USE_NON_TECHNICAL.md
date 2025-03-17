@@ -5,7 +5,7 @@ title: "Template Usage Guide - Non-Technical"
 category: "Meta"
 related: ["HOW_TO_USE.md", "AI_ENTRY_POINT.md"]
 key_concepts: ["template", "setup", "documentation", "project_planning"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This guide explains how to use this project template in simple, non-technical terms. It's perfect for project managers, stakeholders, or anyone who needs to understand the project structure without getting into technical details.
@@ -320,4 +320,4 @@ Remember: There's no wrong way to use these guides. If you're confused, just ask
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

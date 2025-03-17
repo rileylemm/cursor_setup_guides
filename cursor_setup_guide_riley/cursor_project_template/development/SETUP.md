@@ -5,7 +5,7 @@ title: "Development Setup Guide"
 category: "Development"
 related: ["development/INDEX.md", "development/CONTRIBUTING.md", "development/IMPLEMENTATION_CHECKLIST.md"]
 key_concepts: ["development", "setup", "environment", "dependencies"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document provides step-by-step instructions for setting up the development environment.
@@ -132,4 +132,4 @@ This document provides step-by-step instructions for setting up the development 
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

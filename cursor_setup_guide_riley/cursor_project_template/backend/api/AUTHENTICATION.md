@@ -5,7 +5,7 @@ title: "Authentication Endpoints Documentation"
 category: "Backend/API"
 related: ["backend/api/API.md", "backend/api/AUTH.md", "backend/api/API_REFERENCE.md"]
 key_concepts: ["authentication", "authorization", "oauth", "jwt", "sessions"]
-updated: "2024-03-16"
+updated: "2025-03-16"
 ---
 
 This document provides documentation for all authentication-related endpoints and flows.
@@ -155,4 +155,4 @@ The system ensures security through:
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

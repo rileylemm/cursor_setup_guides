@@ -5,7 +5,7 @@ title: "Frontend Testing Documentation Overview"
 category: "Testing/Frontend"
 related: ["testing/STRATEGY.md", "testing/COVERAGE.md", "testing/frontend/COMPONENT_TESTING.md"]
 key_concepts: ["frontend_testing", "component_testing", "e2e_testing", "visual_testing", "test_organization"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document provides an overview of the frontend testing documentation structure.
@@ -90,4 +90,4 @@ This document provides an overview of the frontend testing documentation structu
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

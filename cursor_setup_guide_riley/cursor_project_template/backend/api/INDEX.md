@@ -5,7 +5,7 @@ title: "API Documentation Overview"
 category: "Backend/API"
 related: ["backend/api/API.md", "backend/api/API_ARCHITECTURE.md", "backend/api/API_REFERENCE.md"]
 key_concepts: ["api_documentation", "api_design", "api_reference", "api_architecture"]
-updated: "2024-03-16"
+updated: "2025-03-16"
 ---
 
 This document provides an overview of the API documentation structure and guides you to the relevant documentation.
@@ -75,4 +75,4 @@ This document provides an overview of the API documentation structure and guides
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

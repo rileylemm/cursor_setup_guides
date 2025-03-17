@@ -5,7 +5,7 @@ title: "Code Style Guide"
 category: "Standards"
 related: ["standards/INDEX.md", "standards/DOCUMENTATION.md", "standards/GIT_WORKFLOW.md"]
 key_concepts: ["code_style", "standards", "formatting", "conventions"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document outlines the coding standards and conventions for the project.
@@ -128,4 +128,4 @@ This document outlines the coding standards and conventions for the project.
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

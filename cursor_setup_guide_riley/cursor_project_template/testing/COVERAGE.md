@@ -5,7 +5,7 @@ title: "Test Coverage Requirements Documentation"
 category: "Testing"
 related: ["testing/STRATEGY.md", "testing/frontend/UI_TESTING.md", "testing/backend/API_TESTING.md"]
 key_concepts: ["test_coverage", "coverage_standards", "coverage_metrics", "coverage_reporting", "coverage_goals"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document outlines the standards and requirements for test coverage across the project.
@@ -156,4 +156,4 @@ This document outlines the standards and requirements for test coverage across t
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

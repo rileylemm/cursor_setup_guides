@@ -5,7 +5,7 @@ title: "User Management Documentation"
 category: "Backend/API"
 related: ["backend/api/API.md", "backend/api/AUTH.md", "backend/api/API_REFERENCE.md"]
 key_concepts: ["user_management", "profile_management", "account_management", "user_data"]
-updated: "2024-03-16"
+updated: "2025-03-16"
 ---
 
 This document provides documentation for all user management-related endpoints and operations.
@@ -155,4 +155,4 @@ The system manages user data through:
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

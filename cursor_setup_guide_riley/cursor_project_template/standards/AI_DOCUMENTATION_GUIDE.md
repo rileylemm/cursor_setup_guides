@@ -5,7 +5,7 @@ title: "AI Documentation Guide"
 category: "Standards"
 related: ["standards/INDEX.md", "standards/DOCUMENTATION.md", "standards/CODE_STYLE.md"]
 key_concepts: ["ai", "documentation", "optimization", "guidelines"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document provides guidelines for creating AI-optimized documentation.
@@ -128,4 +128,4 @@ This document provides guidelines for creating AI-optimized documentation.
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

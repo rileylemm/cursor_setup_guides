@@ -5,7 +5,7 @@ title: "Deployment Architecture Documentation"
 category: "Deployment"
 related: ["deployment/INSTALLATION.md", "deployment/DEPLOYMENT_OPTIONS.md", "ARCHITECTURE.md"]
 key_concepts: ["deployment_architecture", "environments", "infrastructure", "scaling", "monitoring"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document outlines the overall deployment architecture and environments.
@@ -156,4 +156,4 @@ This document outlines the overall deployment architecture and environments.
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

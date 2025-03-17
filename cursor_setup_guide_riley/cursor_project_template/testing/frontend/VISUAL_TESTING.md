@@ -5,7 +5,7 @@ title: "Visual Testing Documentation"
 category: "Testing/Frontend"
 related: ["testing/frontend/INDEX.md", "testing/frontend/COMPONENT_TESTING.md", "testing/frontend/E2E_TESTING.md"]
 key_concepts: ["visual_testing", "regression_testing", "baseline_testing", "accessibility_testing", "responsive_testing"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document outlines the strategies and approaches for visual regression testing.
@@ -156,4 +156,4 @@ This document outlines the strategies and approaches for visual regression testi
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

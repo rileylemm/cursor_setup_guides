@@ -5,7 +5,7 @@ title: "Deployment Options Documentation"
 category: "Deployment"
 related: ["deployment/ARCHITECTURE.md", "deployment/INSTALLATION.md", "README.md"]
 key_concepts: ["deployment", "hosting", "infrastructure", "scaling", "monitoring"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document outlines available deployment options and their considerations.
@@ -156,4 +156,4 @@ This document outlines available deployment options and their considerations.
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

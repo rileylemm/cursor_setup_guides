@@ -5,7 +5,7 @@ title: "Installation Guide Documentation"
 category: "Deployment"
 related: ["deployment/ARCHITECTURE.md", "deployment/DEPLOYMENT_OPTIONS.md", "README.md"]
 key_concepts: ["installation", "setup", "configuration", "dependencies", "environment"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document provides step-by-step installation instructions.
@@ -156,4 +156,4 @@ This document provides step-by-step installation instructions.
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

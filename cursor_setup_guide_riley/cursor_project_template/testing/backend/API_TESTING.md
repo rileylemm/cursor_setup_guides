@@ -5,7 +5,7 @@ title: "API Testing Documentation"
 category: "Testing/Backend"
 related: ["testing/backend/INDEX.md", "testing/backend/INTEGRATION_TESTING.md", "backend/api/API_REFERENCE.md"]
 key_concepts: ["api_testing", "endpoint_testing", "request_validation", "response_validation", "error_handling"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document outlines the strategies and approaches for testing API endpoints.
@@ -156,4 +156,4 @@ This document outlines the strategies and approaches for testing API endpoints.
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

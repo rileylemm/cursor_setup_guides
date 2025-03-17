@@ -5,7 +5,7 @@ title: "Schema Documentation"
 category: "Backend/Data"
 related: ["backend/data/DATA_ARCHITECTURE.md", "backend/data/DATABASE_DESIGN.md", "backend/data/PROCESSING.md"]
 key_concepts: ["schema_design", "data_modeling", "validation", "evolution"]
-updated: "2024-03-16"
+updated: "2025-03-16"
 ---
 
 This document provides a template for documenting your project's data schemas. Use this structure to define your data models, database schemas, and validation rules.
@@ -177,4 +177,4 @@ The system enforces data integrity through:
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

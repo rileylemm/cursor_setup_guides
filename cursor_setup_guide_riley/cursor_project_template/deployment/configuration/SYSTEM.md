@@ -5,7 +5,7 @@ title: "System Configuration"
 category: "Deployment/Configuration"
 related: ["deployment/configuration/INDEX.md", "deployment/configuration/DATABASE.md", "deployment/configuration/SECURITY.md"]
 key_concepts: ["system", "configuration", "environment", "performance"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document outlines the core system configuration options and settings.
@@ -127,4 +127,4 @@ This document outlines the core system configuration options and settings.
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 

@@ -5,7 +5,7 @@ title: "Git Workflow"
 category: "Standards"
 related: ["standards/INDEX.md", "standards/CODE_STYLE.md", "standards/REVIEW_PROCESS.md"]
 key_concepts: ["git", "workflow", "version_control", "branching"]
-updated: "2024-03-17"
+updated: "2025-03-17"
 ---
 
 This document outlines the Git workflow and version control practices.
@@ -128,4 +128,4 @@ This document outlines the Git workflow and version control practices.
 
 ---
 
-*Last Updated: March 2024* 
+*Last Updated: March 2025* 
