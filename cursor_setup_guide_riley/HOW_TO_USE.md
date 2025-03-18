@@ -1,14 +1,14 @@
-# How to Use This Project
+# How to Use This Template
 
 ---
-title: "Project Usage Guide"
+title: "Template Usage Guide"
 category: "Meta"
 related: ["HOW_TO_USE_NON_TECHNICAL.md", "AI_ENTRY_POINT.md"]
-key_concepts: ["setup", "documentation", "project_planning"]
+key_concepts: ["template", "setup", "documentation", "project_planning"]
 updated: "2025-03-17"
 ---
 
-This guide explains how to effectively use this project with Cursor IDE and its AI capabilities.
+This guide explains how to effectively use this project template with Cursor IDE and its AI capabilities.
 
 ## Quick Start
 
