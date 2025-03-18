@@ -1,14 +1,14 @@
-# How to Use This Template (Non-Technical Guide)
+# How to Use This Project (Non-Technical Guide)
 
 ---
-title: "Template Usage Guide - Non-Technical"
+title: "Project Usage Guide - Non-Technical"
 category: "Meta"
 related: ["HOW_TO_USE.md", "AI_ENTRY_POINT.md"]
-key_concepts: ["template", "setup", "documentation", "project_planning"]
+key_concepts: ["setup", "documentation", "project_planning"]
 updated: "2025-03-17"
 ---
 
-This guide explains how to use this project template in simple, non-technical terms. It's perfect for project managers, stakeholders, or anyone who needs to understand the project structure without getting into technical details.
+This guide explains how to use this project in simple, non-technical terms. It's perfect for project managers, stakeholders, or anyone who needs to understand the project structure without getting into technical details.
 
 ## What is This Template?
 
